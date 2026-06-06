@@ -1,2 +1,27 @@
-# mealwise-ai
-MealWise AI adalah aplikasi rekomendasi makanan berbasis Flutter yang membantu pengguna menemukan pilihan makanan sesuai budget yang dimiliki. Aplikasi ini mengimplementasikan Google Authentication, CRUD MySQL, Provider State Management, Shared Preferences, dan fitur notifikasi real-time.
+# MealWise AI 🍜
+
+MealWise AI adalah aplikasi mobile berbasis Flutter yang membantu pengguna menentukan pilihan makanan berdasarkan budget yang dimiliki.
+
+## Fitur Utama
+
+- Login Google Firebase Authentication
+- Shared Preferences (Auto Login)
+- CRUD Data Makanan (MySQL + PHP API)
+- Budget Recommendation
+- Provider State Management
+- Dashboard Statistik
+- Notifikasi Real-time
+
+## Teknologi
+
+- Flutter
+- Firebase Authentication
+- MySQL
+- PHP API
+- Provider
+- Shared Preferences
+
+## Developer
+
+Luckyano Fajarna
+Politeknik Negeri Indramayu
